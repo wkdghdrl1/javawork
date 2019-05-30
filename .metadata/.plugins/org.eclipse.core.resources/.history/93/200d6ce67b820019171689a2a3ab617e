@@ -1,0 +1,20 @@
+
+public class Boolean_02 {
+
+	public static void main(String[] args) {
+			
+		int intNum =  20;
+		boolean bYes = true;
+		
+		bYes = intNum == 50;
+		System.out.println(bYes);		
+		
+		bYes = intNum == intNum - 30;
+		System.out.println(bYes);
+		bYes = 1 == -1;
+		System.out.println(bYes);
+		
+		
+	}
+
+}

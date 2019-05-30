@@ -1,0 +1,17 @@
+// Variable : Var
+public class HelloVar {
+
+	public static void main(String[] args) {
+		
+		int num = 30;
+		int sum = 30 + 40;
+		
+		
+		System.out.println(num + sum);
+		
+		System.out.println("4950");
+		
+		
+	}
+
+}

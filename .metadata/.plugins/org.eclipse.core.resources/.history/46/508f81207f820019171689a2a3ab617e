@@ -1,0 +1,17 @@
+
+public class boolean_05 {
+
+	public static void main(String[] args) {
+			
+		int intNum1 = 0;
+		int intNum2 = 0;
+		
+		boolean byes = true;
+		
+		intNum1 = 10;
+		intNum1 = -intNum1;
+		System.out.println(intNum1);
+		
+	}
+
+}

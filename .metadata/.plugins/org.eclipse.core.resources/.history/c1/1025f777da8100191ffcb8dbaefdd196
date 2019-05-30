@@ -1,0 +1,11 @@
+
+public class HelloVar_02 {
+
+	public static void main(String[] args) {
+			
+		long num1 =  2147483648; //2147483647
+		System.out.println(num1 + 1);
+		
+	}
+
+}

@@ -1,0 +1,18 @@
+
+public class Boolean_04 {
+
+	public static void main(String[] args) {
+			
+		// intNum1과 intNum2를 사용할 준비를 하는 선언
+		int intNum1 = 0;
+		int intNum2 = 0;
+		System.out.println(intNum1);
+		
+		int intNum3;
+		System.out.println(intNum3);
+		boolean bYes = true;
+		
+		
+	}
+
+}

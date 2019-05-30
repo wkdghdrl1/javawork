@@ -1,0 +1,26 @@
+// Variable : Var
+public class HelloVar {
+
+	public static void main(String[] args) {
+		
+		int num = 30;
+		int sum = 30 + 40;
+		
+		
+		System.out.println(num + sum);
+		
+		
+		int a;
+		int sum1;
+		
+		for(int i=1; i<100; i++) {
+			
+			sum1 = a + i;
+			
+			System.out.println(sum1);
+		}
+		
+		
+	}
+
+}

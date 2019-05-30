@@ -1,0 +1,14 @@
+
+public class Boolean_02 {
+
+	public static void main(String[] args) {
+		
+		String strName = "R";
+		
+		strName = strName + "e";
+		
+			System.out.println(strName);
+		
+	}
+
+}

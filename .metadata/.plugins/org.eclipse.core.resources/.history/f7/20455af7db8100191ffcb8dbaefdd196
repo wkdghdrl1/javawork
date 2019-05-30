@@ -1,0 +1,11 @@
+
+public class Hello_var_03 {
+
+	public static void main(String[] args) {
+			
+		int kor = 90;
+		System.out.println("국어점수 :" + kor);
+		
+	}
+
+}

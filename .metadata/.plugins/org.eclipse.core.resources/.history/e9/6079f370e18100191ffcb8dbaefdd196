@@ -1,0 +1,13 @@
+
+public class HelloVar_05 {
+
+	public static void main(String[] args) {
+			
+		int num = 10;
+		int num1 = 20;
+		int num11 = 30;
+		int num1 = 40;
+		int num1 = 50;
+	}
+
+}

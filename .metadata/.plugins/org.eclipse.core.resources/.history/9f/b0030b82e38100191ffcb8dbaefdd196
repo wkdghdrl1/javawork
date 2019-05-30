@@ -1,0 +1,15 @@
+
+public class HelloVar_06 {
+
+	public static void main(String[] args) {
+		
+		//실수형(소수점이하 6자리까지)
+		float korScore = 90.5f;
+		float engScore = 80.6f;
+		float mathscore = 70.7f;
+		
+		float sum = korScore + engScore + mathscore;
+		
+	}
+
+}

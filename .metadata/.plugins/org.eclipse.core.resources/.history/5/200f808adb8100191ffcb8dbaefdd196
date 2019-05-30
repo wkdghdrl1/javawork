@@ -1,0 +1,15 @@
+
+public class HelloVar_02 {
+
+	public static void main(String[] args) {
+			
+		int num1 =  2147483647; //2147483647
+		System.out.println(num1 + 1);
+		
+		long num2 = 3020340230993923483l;
+		long num3 = 2148483647l;
+		
+		System.out.println(num3 + 1);
+	}
+
+}

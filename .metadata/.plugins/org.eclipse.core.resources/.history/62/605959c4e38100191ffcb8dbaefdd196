@@ -1,0 +1,18 @@
+
+public class HelloVar_06 {
+
+	public static void main(String[] args) {
+		
+		//실수형(소수점이하 6자리까지)
+		float korScore = 90;
+		float engScore = 82;
+		float mathscore = 70;
+		
+		float sum = korScore + engScore + mathscore;
+		System.out.println("총점 :" + sum);
+		
+		float avg = sum / 3;
+		System.out.println("평균 :" + avg);
+	}
+
+}

@@ -1,0 +1,17 @@
+
+public class Boolean_03 {
+
+	public static void main(String[] args) {
+			
+		
+		boolean bYes = true;
+		boolean bNo = false;
+		
+		//boolean에서는 연산기호(+,- : operator)를 사용할 수 없다.
+		//bYes = bYes + true;
+		bYes = 1 == 2;
+		System.out.println(bYes);
+		
+	}
+
+}

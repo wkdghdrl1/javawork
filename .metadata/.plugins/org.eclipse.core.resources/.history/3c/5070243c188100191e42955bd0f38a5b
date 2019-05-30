@@ -1,0 +1,14 @@
+
+public class HelloKorea {
+
+	public static void main(String[] args) {
+
+	
+		
+		System.out.print("快府唱扼父技");	
+		System.out.println("快府唱扼父技");
+		
+		
+	}
+
+}
